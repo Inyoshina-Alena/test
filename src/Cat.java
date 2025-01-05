@@ -59,7 +59,7 @@ public class Cat {
     }
 
     private void pee() {
-       weight -=20;
+       weight -=30;
     }
 
     public void eat() {
